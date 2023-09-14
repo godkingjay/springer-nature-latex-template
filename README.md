@@ -1,0 +1,1 @@
+# springer-nature-latex-template
