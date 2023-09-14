@@ -1,0 +1,4 @@
+sn-article.*
+!sn-article.pdf
+!sn-article.tex
+__latexindent_temp_sn-article.tex
