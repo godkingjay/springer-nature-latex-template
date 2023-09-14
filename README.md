@@ -1,5 +1,9 @@
 # springer-nature-latex-template
 
+<div align="center">
+  <img src="image/image.png" width="100%" />
+</div>
+
 Springer Nature LaTeX is a set of LaTeX templates and style files that can be used to prepare journal article and book submissions to Springer Nature journals and books. The templates are designed to be easy to use and to follow Springer Nature's editorial policy guidelines.
 
 The Springer Nature LaTeX template takes a "content first" approach with minimal formatting. This means that authors can focus on writing their manuscript without having to worry about the specific formatting requirements of the journal. The template also includes options to help authors meet journal-level requirements, such as the use of specific heading styles and the inclusion of figures and tables.
